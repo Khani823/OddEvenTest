@@ -1,0 +1,14 @@
+C:\Users\limdh\OneDrive\바탕 화면\코딩\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limdh\OneDrive\바탕 화면\코딩\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\limdh\OneDrive\바탕 화면\코딩\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfo.cs
+C:\Users\limdh\OneDrive\바탕 화면\코딩\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\limdh\OneDrive\바탕 화면\코딩\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.exe
+C:\Users\limdh\OneDrive\바탕 화면\코딩\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.deps.json
+C:\Users\limdh\OneDrive\바탕 화면\코딩\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.runtimeconfig.json
+C:\Users\limdh\OneDrive\바탕 화면\코딩\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.dll
+C:\Users\limdh\OneDrive\바탕 화면\코딩\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.pdb
+C:\Users\limdh\OneDrive\바탕 화면\코딩\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.dll
+C:\Users\limdh\OneDrive\바탕 화면\코딩\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\refint\ConsoleApp11.dll
+C:\Users\limdh\OneDrive\바탕 화면\코딩\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.pdb
+C:\Users\limdh\OneDrive\바탕 화면\코딩\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.genruntimeconfig.cache
+C:\Users\limdh\OneDrive\바탕 화면\코딩\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ref\ConsoleApp11.dll
